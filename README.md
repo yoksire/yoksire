@@ -7,11 +7,11 @@
 
 - 📫 How to reach me **debojitguha0@gmail.com**
 
-- 📄 Know about my experiences [https://indigo-cherlyn-75.tiiny.site/](https://indigo-cherlyn-75.tiiny.site/)
+- 📄 Know about my experiences [drive link](https://drive.google.com/file/d/1jzpBQnV_wvjM4EqRb59s6dSg5TnYiUC7/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/cj38769234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cj38769234" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/cj38769234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cj38769234" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/debojitguha2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debojitguha2002" height="30" width="40" /></a>
 </p>
 
